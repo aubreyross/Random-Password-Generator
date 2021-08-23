@@ -9,6 +9,8 @@ This is a random password generator that will create a password between 8-128 ch
 
 ***
 ## Links 
+* Deployed website: https://aubreyross.github.io/Random-Password-Generator/
+* Link to code: https://github.com/aubreyross/Random-Password-Generator
 
 ***
 ## References
