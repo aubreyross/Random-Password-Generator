@@ -1,7 +1,7 @@
 # Random-Password-Generator
 
 ## Description 
-This is a random password generator that will create a password with the minimum requirement of 8-128 characters. The user has the option to select their criteria:f they would like to include lower/uppercase letters, numbers, and symbols, and the password will generate based off the selected criteria.
+This is a random password generator that will create a password with the minimum requirement of 8-128 characters. The user has the option to select the criteria they would like to include lower/uppercase letters, numbers, and symbols, and the password will generate based off the selected criteria.
 
 ***
 
