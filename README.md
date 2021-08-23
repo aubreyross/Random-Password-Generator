@@ -6,6 +6,7 @@ This is a random password generator that will create a password between 8-128 ch
 ***
 
 ## Screenshots
+![PasswordGenerator](https://user-images.githubusercontent.com/87405979/130386046-2c769370-84f2-431a-818e-53ca84918b99.png)
 
 ***
 ## Links 
